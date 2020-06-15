@@ -3,4 +3,5 @@
 User ID: ddong  
 Password: 12345
 
-youtube link: https://youtu.be/t5z8PKeQxZI
+Youtube link: https://youtu.be/t5z8PKeQxZI
+About Us: https://cse323finalprototype.web.app/#/screens/6a5e2343-091a-4f62-8698-eb9a8e5ff4b5
